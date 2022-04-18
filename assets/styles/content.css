@@ -1,0 +1,29 @@
+
+.small_imgs{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 400px;
+}
+
+
+
+
+.des_of_product {
+ font-size: 10px;  
+ position: relative;
+ bottom: 600px;
+ left:600px;
+}
+
+
+
+
+.main_img {
+    width: 450px;
+    height: 450px;
+    position: relative;
+    left: 70px;
+   
+}
+

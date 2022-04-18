@@ -1,0 +1,63 @@
+.nav1{
+    background-color: RGB(19, 25, 33);
+    display: flex;
+    font-size: 15px;
+    height: 50px;    
+}
+.nav2 {
+    background-color: RGB(36, 47, 62);
+    font-size: 15px;
+    
+}
+.nav1 a{
+    margin: 50px;  
+    font-size: 15px;
+    color: white ;
+    
+}
+
+.nav2 a{
+    margin: 10px;  
+    color: white ;
+
+}
+.logo{
+    position: relative;
+    
+}
+.delivery{
+    position: relative;
+    left: 10px
+}
+.search{
+    position: relative;
+    left: 50px
+}
+.cart_icon{
+    position: relative;
+    left: 100px
+}
+.country_icon{
+    position: relative;
+    left: 200px;
+}
+.sign_in{
+    position: relative;
+    left:300px;
+}
+.returns_orders {
+    position: relative;
+    left: 400px;
+}
+.cart_icon {
+    position: relative;
+    left: 500px
+}
+
+
+.nav3 ul{
+    position: relative;
+    display: flex;
+    margin: 32px;
+    list-style-type: none;
+    color:RGB(132, 134, 134);}
